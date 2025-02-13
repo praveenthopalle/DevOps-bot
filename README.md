@@ -9,8 +9,6 @@
 ## Introduction
 Welcome to the AI Driven Software Development Automation Solution, abbreviated as DevOpsGPT. We combine LLM (Large Language Model) with DevOps tools to convert natural language requirements into working software. This innovative feature greatly improves development efficiency, shortens development cycles, and reduces communication costs, resulting in higher-quality software delivery.
 
-<img src="docs/files/intro-flow-simple.png"></a>
-
 ## Features and Benefits
 
 - Improved development efficiency: No need for tedious requirement document writing and explanations. Users can interact directly with DevOpsBot to quickly convert requirements into functional software.
