@@ -1,0 +1,14 @@
+nohup.out*
+*__pycache__*
+*.vscode*
+backend/env.yaml
+env.yaml
+.DS_Store
+workspace
+init.sh
+db/versions/*
+db/env.py
+db/README.md
+db/database_pro.db
+alembic.ini*
+.idea

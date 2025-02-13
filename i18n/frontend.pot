@@ -1,0 +1,1014 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-09 15:28+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: backend/app/pkgs/tools/i18b.py:35
+msgid "hi"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:36
+msgid "Start"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:37 backend/app/pkgs/tools/i18b.py:211
+msgid "More"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:38
+msgid "Hello"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:39
+msgid "Login"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:40
+msgid "Logout"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:41
+msgid "ERROR"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:42
+msgid ""
+"The services involved are not analyzed. Check whether the application "
+"architecture information is accurate"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:43
+msgid "Thinking..."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:44
+msgid ""
+"Hello, I am the AI-assisted code development assistant, please select the"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:45
+msgid "to start the development task!"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:46
+msgid "I need to develop requirements in the"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:47
+msgid "Task APP"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:48
+msgid "Task ID"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:49
+msgid "Task repo"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:50
+msgid "Task branch: Based on"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:51
+msgid "to development"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:52
+msgid ""
+"Now, please tell me the requirements that need to be completed, describing "
+"them in as much detail as possible."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:53
+msgid "Development requirements overview: "
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:54
+msgid "Development requirements details: "
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:55
+msgid ""
+"The requirements document has been generated, and the interface document "
+"will be generated after confirmation: "
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:56
+msgid ""
+"In order to better understand the requirements, I also need to confirm the "
+"following questions: "
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:57
+msgid ""
+"The interface documentation has been generated, and once confirmed, the "
+"analysis of how to modify the program code will begin: "
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:58
+msgid "Confirm interface document."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:59
+msgid "Analyzing how to modify the"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:60
+msgid ""
+"code according to the requirement description, it is expected to take 1-6 "
+"minutes, please wait..."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:61
+msgid ""
+"According to the above development tasks and the product database, I analyze "
+"that the following contents need to be modified:"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:62
+msgid "Start CI"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:63
+msgid "Submit code"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:64
+msgid "Auto check"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:65
+msgid "Modify file"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:66
+msgid "Reason for modification"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:67
+msgid "Adjust code"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:68
+msgid "Review code"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:69
+msgid "Status"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:70
+msgid "APP"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:71
+msgid "Select APP"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:72
+msgid "Requirement description"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:73
+msgid "Operation"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:74
+msgid "Submit"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:75
+msgid "Ok"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:76
+msgid "Edit"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:77
+msgid "Close"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:78
+msgid "Cancel"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:79
+msgid "Retry"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:80
+msgid "Restart"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:81
+msgid "Question"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:82
+msgid "Answer"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:83
+msgid "Initial code"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:84
+msgid "Self check"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:85
+msgid "Compile check"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:86
+msgid "Fix Compile check"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:87
+msgid "Static scan"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:88
+msgid "Fix Static scan"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:89
+msgid "No problem found in the current file, refer to other solutions:"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:90
+msgid ""
+"The back-end service returns an exception. Contact the administrator to "
+"check the terminal service logs and browser consol."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:91
+msgid "Start deployment"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:92
+msgid "Start task"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:93
+msgid "Requirement List"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:94
+msgid "APP List"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:95
+msgid "Setting"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:96
+msgid "Create new"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:97
+msgid "Back to list page"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:98
+msgid "APP name"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:99
+msgid "APP introduction"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:100
+msgid "Base branch"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:101
+msgid "Feature branch"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:102
+msgid "Service name"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:103
+msgid "Service role"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:104
+msgid "Language"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:105
+msgid "Framework"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:106
+msgid "Dependency library"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:107
+msgid "APP sub service"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:108
+msgid "Git path"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:109
+msgid "AI code analysis"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:110
+msgid "API type"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:111
+msgid "API path"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:112
+msgid "Service database"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:113
+msgid "Service code struct"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:114
+msgid "Requirement ID"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:115
+msgid "Requirement name"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:116
+msgid "Requirement status"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:117
+msgid "Requirement owner"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:118
+msgid "Requirement completion rating"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:119
+msgid "Requirement satisfaction_rating"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:120
+msgid ""
+"Historical requirement recovery is not supported at this time, please visit "
+"workspace to obtain the code results"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:121
+msgid "Notice"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:122
+msgid "Username"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:123
+msgid "Password"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:124
+msgid "Register"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:125
+msgid "Email"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:126
+msgid "Company Name"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:127
+msgid "Company Status"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:128
+msgid "Company Description"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:129
+msgid "Billing type"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:130
+msgid "Billing quota"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:131
+msgid "Created"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:132
+msgid "Plus expiry"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:133
+msgid "Employee count"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:134
+msgid "Industry type"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:135
+msgid "Switch Tenant"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:136
+msgid "Member Count"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:137
+msgid ""
+"Please ensure that the information is accurate and we will review it within "
+"24 hours to activate your account."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:138
+msgid ""
+"In order to protect your rights, please ensure that the information is "
+"accurate."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:139
+msgid "Enter"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:140
+msgid "Details"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:141
+msgid "Members"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:142
+msgid "Country"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:143
+msgid "Role"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:144
+msgid "Phone Number"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:145
+msgid "Add member"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:146
+msgid "Invite"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:147
+msgid "Billing"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:148
+msgid "Bill type"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:149
+msgid "Operating user"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:150
+msgid "Billing date"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:151
+msgid "Remarks"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:152
+msgid "Operate"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:153
+msgid "Git provider"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:154
+msgid "Git URL"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:155
+msgid "Git token"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:156
+msgid "Git username"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:157
+msgid "Git email"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:158
+msgid "CI Token"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:159
+msgid "CI API URL"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:160
+msgid "CI provider"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:161
+msgid "CD provider"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:162
+msgid "ACCESS_KEY"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:163
+msgid "SECRET_KEY"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:164
+msgid "Configuration"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:165
+msgid "Config name"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:166
+msgid "Associated CD Config"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:167
+msgid "Associated CI Config"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:168
+msgid "Associated Git Config"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:169
+msgid "My Role"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:170
+msgid "The tenant does not exist or is abnormal"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:171
+msgid "Insufficient authority."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:172
+msgid "Renewal Plus"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:173
+msgid "Recharge CodePower"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:174
+msgid "PayPal"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:175
+msgid "Alipay"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:176
+msgid ""
+"Note: Renewal will take effect immediately. If you switch plus types, the "
+"previous plus duration will be reset and start counting anew."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:177
+msgid ""
+"Note: The CodePower is valid for 12 months, please recharge it reasonably."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:178
+msgid "CodePower"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:179
+msgid "Weekly development task limit: "
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:180
+msgid "Expired: "
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:181
+msgid ""
+"The number of tasks for today has exceeded the limit. Please upgrade your "
+"membership or try again tomorrow."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:182
+msgid ""
+"CodePower has been depleted. Please check your bill and recharge before "
+"using it again."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:183
+msgid "Billing system error, please check your bill."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:184
+msgid "Sync from Git"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:185
+msgid ""
+"Way 2: Create APP via template. Templates are stored on GitHub by default, "
+"and you can clone them into your own repository."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:186
+msgid ""
+"Way 1: Create APP via AI, give git path, AI automatically analyzes the code "
+"base to create APP, Make sure Git token has code pull permission."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:187
+msgid "AI code analysis... It will take a few minutes. Please wait"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:188
+msgid "Launch code"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:189
+msgid "Your PKTAI launch code"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:190
+msgid "The username cannot be smaller than 4 characters."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:191
+msgid ""
+"The username format you entered is incorrect(Only letters a-Z and _ - are "
+"allowed)."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:192
+msgid "The password cannot be smaller than 6 characters."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:193
+msgid "The phone_number cannot be smaller than 9 characters."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:194
+msgid "The email format you entered is incorrect."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:195
+msgid "The email launch code is incorrect."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:196
+msgid ""
+"invitation code (Thank you for your interest. We will open registration "
+"after the beta testing phase.)"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:197
+msgid "Alpha(internal testing)"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:198
+msgid ""
+"Welcome to PKTAI, Multi agent system for AI-driven software development."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:199
+msgid "Natural language requirements into working software."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:200
+msgid ""
+"Multi agent system for AI-driven software development. Combine LLM with "
+"DevOps tools to convert natural language requirements into working software. "
+"Supports any development language and extends the existing code."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:201
+msgid "Full Process"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:202
+msgid "Multi-Agent"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:203
+msgid "Domain Models"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:204
+msgid ""
+"An AI-driven development platform that covers the entire software lifecycle "
+"management, combined with various DevOps tools, achieves end-to-end delivery "
+"of software from natural language requirements."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:205
+msgid ""
+"AI intelligently adjusts workflow orchestration based on user feedback and "
+"continuously performs autonomous self-correction and optimization of "
+"generated results, enabling flexible and high-quality software development."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:206
+msgid ""
+"Multiple domain models are trained for the software production process. "
+"These domain models collaborate to complete software development tasks and "
+"can support private deployment. Extension development based on existing "
+"software code is achieved through proprietary models."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:207
+msgid "CURD Requirements"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:208
+msgid ""
+"In software development, CRUD (Create, Read, Update, Delete) represents "
+"essential operations for managing data. It involves creating new records, "
+"retrieving existing data, updating information, and deleting records. These "
+"CRUD operations are fundamental in various applications, from database "
+"management systems to web and mobile applications, as they enable users to "
+"interact with and manipulate data effectively."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:209
+msgid "ChatBot Requirements"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:210
+msgid ""
+"In software development, chatbot requirements for applications like "
+"Enterprise WeChat typically encompass functionalities such as real-time "
+"messaging, automated responses, integration with enterprise systems, user "
+"management, and multi-platform compatibility, ensuring efficient "
+"communication and task automation within corporate environments."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:212
+msgid ""
+"As our foundational and product capabilities continue to improve, we will "
+"gradually expand our development to encompass more complex application "
+"scenarios, bringing universal benefits to every user with software "
+"development needs. Please stay tuned and follow us for updates."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:213
+msgid ""
+"Now, you can experience our products with minimal cost. We look forward to "
+"bringing a whole new experience to your software development!"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:214
+msgid "Opensource"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:215
+msgid "Basic"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:216
+msgid "Pro"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:217
+msgid "Private Deployment"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:218
+msgid ""
+"Utilize our fine-tuned model and deploy it within your private environment "
+"to ensure data security. We welcome further communication with you."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:219
+msgid "Contact Us"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:220
+msgid "Links"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:221
+msgid "Get Launch code"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:222
+msgid "Service Type"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:223
+msgid "The email address has been registered."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:224
+msgid "Change password"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:225
+msgid "New password"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:226
+msgid "Help center"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:227
+msgid ""
+"Technical document has been generated. You can confirm the document, or "
+"manually modify the document."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:228
+msgid ""
+"Assist in clarifying product requirements and produce requirement documents."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:229
+msgid ""
+"Design system architecture, break down development tasks, and produce "
+"technical documentation for development."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:230
+msgid "Assess product quality, identify and report defects."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:231
+msgid "Write, review, test, and maintain software code."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:232
+msgid ""
+"Responsible for application deployment, as well as managing servers, "
+"networks, and systems to ensure system availability and stability."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:233
+msgid ""
+"The following AI roles will assist you in completing the entire development "
+"process for requirement tasks."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:234
+msgid "Try it!"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:235
+msgid "Web application"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:236
+msgid ""
+"Asset Registration Function: Supports adding new fixed asset information, "
+"including asset number, name, specifications, purchase date, and purchase "
+"price."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:237
+msgid "Office collaboration application expansion"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:238
+msgid ""
+"Input meeting notes, invoke ChatGPT to organize the meeting notes into "
+"meeting minutes, and send them to the group via the enterprise WeChat bot."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:239
+msgid "Integration between services via API"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:240
+msgid ""
+"Integrate with the GitLab server using GitLab's OpenAPI. The system will "
+"query the recent one-hour continuous integration failure records every hour."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:241
+msgid "mini-games"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:242
+msgid ""
+"Snake Game: Players control the direction of the snake, collect food, and "
+"the snake grows in length when it eats food."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:243
+msgid "Try this requirement"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:244
+msgid ""
+"Please note that different types of applications are suitable for different "
+"types of needs. Please provide a detailed description of your requirements. "
+"Below are some reference cases."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:245
+msgid "Trigger code review"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:246
+msgid "Update status"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:247
+msgid "View details"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:248
+msgid "index_view_url"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:249
+msgid ""
+"You haven't created an app yet. <a href='/app.html?action=create_new' "
+"target='_blank'>You can quickly create one.</a>"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:250
+msgid "The verify code is incorrect."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:251
+msgid "The phone number has been registered."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:252
+msgid "You have obtained the verify code too many times."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:253
+msgid "Select existing applications"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:254
+msgid "Select from already created applications."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:255
+msgid "AI import existing code project"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:256
+msgid ""
+"Use AI to automatically import existing code items to create new "
+"applications."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:257
+msgid "Create application using templates"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:258
+msgid "Use templates to quickly create new application."
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:259
+msgid "Repair workspace"
+msgstr ""
+
+#: backend/app/pkgs/tools/i18b.py:260
+msgid "task_code_finish"
+msgstr ""
