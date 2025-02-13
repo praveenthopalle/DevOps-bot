@@ -1,13 +1,4 @@
-# DevOpsGPT: AI-Driven Software Development Automation Solution
-
-<p align="center">
-<a href="docs/README_CN.md"><img src="docs/files/%E6%96%87%E6%A1%A3-%E4%B8%AD%E6%96%87%E7%89%88-blue.svg" alt="CN doc"></a>
-<a href="README.md"><img src="docs/files/document-English-blue.svg" alt="EN doc"></a>
-<a href="docs/README_JA.md"><img src="docs/files/ドキュメント-日本語-blue.svg" alt="JA doc"></a>
-<a href="http://www.PKTAI.net"><img src="docs/files/%E5%AE%98%E7%BD%91-%E4%BC%81%E4%B8%9A%E7%89%88-purple.svg" alt="EN doc"></a>
-<a href="docs/CONTACT.md"><img src="docs/files/WeChat-%E5%BE%AE%E4%BF%A1-green.svg" alt="roadmap"></a>
-<a href="https://discord.gg/4RMUCZwnxF"><img src="https://img.shields.io/badge/Discord-DevOpsGPT-green" alt="roadmap"></a>
-</p>
+# DevOpsBot: AI-Driven Software Development Automation Solution
 
 ### 💡 Get Help - [Q&A](https://github.com/PKTAI/DevOpsGPT/issues) 
 ### 💡 Submit Requests - [Issue](https://github.com/PKTAI/DevOpsGPT/discussions)
@@ -22,39 +13,36 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 ## Features and Benefits
 
-- Improved development efficiency: No need for tedious requirement document writing and explanations. Users can interact directly with DevOpsGPT to quickly convert requirements into functional software.
+- Improved development efficiency: No need for tedious requirement document writing and explanations. Users can interact directly with DevOpsBot to quickly convert requirements into functional software.
 - Shortened development cycles: The automated software development process significantly reduces delivery time, accelerating software deployment and iterations.
-- Reduced communication costs: By accurately understanding user requirements, DevOpsGPT minimizes the risk of communication errors and misunderstandings, enhancing collaboration efficiency between development and business teams.
-- High-quality deliverables: DevOpsGPT generates code and performs validation, ensuring the quality and reliability of the delivered software.
+- Reduced communication costs: By accurately understanding user requirements, DevOpsBot minimizes the risk of communication errors and misunderstandings, enhancing collaboration efficiency between development and business teams.
+- High-quality deliverables: DevOpsBot generates code and performs validation, ensuring the quality and reliability of the delivered software.
 - [Enterprise Edition] Existing project analysis: Through AI, automatic analysis of existing project information, accurate decomposition and development of required tasks on the basis of existing projects.
 - [Enterprise Edition] Professional model selection: Support language model services stronger than GPT in the professional field to better complete requirements development tasks, and support private deployment.
 - [Enterprise Edition] Support more DevOps platforms: can connect with more DevOps platforms to achieve the development and deployment of the whole process.
 
 ## Demo（Click to play video）
 
-1. <a href="https://www.youtube.com/watch?v=KGeWgM6HzR4" target="_blank">DevOpsGPT Vision video</a>
+1. <a href="https://www.youtube.com/watch?v=KGeWgM6HzR4" target="_blank">DevOps-bot Vision video</a>
 2. <a href="https://www.youtube.com/watch?v=3peUJeB_afo" target="_blank">Demo - Software development and deployment to Cloud</a>
 3. <a href="https://www.youtube.com/watch?v=IWUPbGrJQOU" target="_blank">Demo - Develop an API for adding users in Java SpringBoot</a>
 
 
 ## Workflow
-Through the above introduction and Demo demonstration, you must be curious about how DevOpsGPT achieves the entire process of automated requirement development in an existing project. Below is a brief overview of the entire process:
+Through the above introduction and Demo demonstration, you must be curious about how DevOpsBot achieves the entire process of automated requirement development in an existing project. Below is a brief overview of the entire process:
 
 
-- Clarify requirement documents: Interact with DevOpsGPT to clarify and confirm details in requirement documents.
-- Generate interface documentation: DevOpsGPT can generate interface documentation based on the requirements, facilitating interface design and implementation for developers.
+- Clarify requirement documents: Interact with DevOpsBot to clarify and confirm details in requirement documents.
+- Generate interface documentation: DevOpsBot can generate interface documentation based on the requirements, facilitating interface design and implementation for developers.
 - Write pseudocode based on existing projects: Analyze existing projects to generate corresponding pseudocode, providing developers with references and starting points.
 - Refine and optimize code functionality: Developers improve and optimize functionality based on the generated code.
 - Continuous integration: Utilize DevOps tools for continuous integration to automate code integration and testing.
-- Software version release: Deploy software versions to the target environment using DevOpsGPT and DevOps tools.
-
-## Use Cloud Services
-Vists [PKTAI.net](https://www.PKTAI.net)
+- Software version release: Deploy software versions to the target environment using DevOpsBot and DevOps tools.
 
 ## Quick Start
 
 1. Run with source code
-    1. Download the [released version](https://github.com/PKTAI/DevOpsGPT/releases), or clone the latest code(instability), Ensure SQLite and Python3.7 or later is ready.
+    1. Download the [released version](https://github.com/PKTAI/DevOpsBot/releases), or clone the latest code(instability), Ensure SQLite and Python3.7 or later is ready.
     2. Generate the configuration file: Copy `env.yaml.tpl` and rename it to `env.yaml`.
     3. Modify the configuration file: Edit `env.yaml` and add the necessary information such as GPT Token (refer to [documentation link](docs/DOCUMENT.md) for detailed instructions).
     4. Run the service: Execute `sh run.sh` on Linux or Mac, or double-click `run.bat` on Windows.
@@ -63,7 +51,7 @@ Vists [PKTAI.net](https://www.PKTAI.net)
 
 2. Run with Docker
     1. Create a directory: `mkdir -p workspace`
-    2. Copy [env.yaml.tpl](https://github.com/PKTAI/DevOpsGPT/blob/master/env.yaml.tpl) from the repository to the current directory and rename it to `env.yaml`
+    2. Copy [env.yaml.tpl](https://github.com/PKTAI/DevOpsBot/blob/master/env.yaml.tpl) from the repository to the current directory and rename it to `env.yaml`
     3. Modify the configuration file: edit `env.yaml` and add necessary information such as GPT Token.
     4. ```
         docker run -it \
