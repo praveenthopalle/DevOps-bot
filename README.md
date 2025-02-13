@@ -1,9 +1,5 @@
 # DevOpsBot: AI-Driven Software Development Automation Solution
 
-### 💡 Get Help - [Q&A](https://github.com/PKTAI/DevOpsGPT/issues) 
-### 💡 Submit Requests - [Issue](https://github.com/PKTAI/DevOpsGPT/discussions)
-### 💡 Technical exchange - service@PKTAI.net
-
 <hr/>
 
 ## Introduction
